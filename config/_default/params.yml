@@ -28,7 +28,7 @@ timeFormat: "2006-01-02 15:04:05"
 
 author: Kirishima Amenatsu
 email: rainsummertse@outlook.com
-description: "也许无人在意呢……"
+description: "一直独自歌唱！"
 # subtitle: "少女祈祷中..."
 subtitle:
   typing:
@@ -47,7 +47,7 @@ subtitle:
     showCursor: true            # 是否显示闪烁的字符
     cursorChar: "|"             # 字符
     smartBackspace: false       # 智能退格，只删除不同的部分
-  text: "即使无人在意，也要独自歌唱"        # 当 typing.enable = false 时使用
+  text: "也许无人在意呢……"        # 当 typing.enable = false 时使用
 
 banner: "images/banner.webp"
 # You can also write it in the form of the following url
@@ -716,11 +716,11 @@ material_theme:
   # more information: https://github.com/2061360308/material-theme
   # notice: when you enable this feature, all the covers will be automatically added "crossorigin" attribute to support the dynamic color scheme
   # so make sure your custom covers will not be blocked by the browser's CORS policy
-  enable: false # enable material_theme to generate dynamic color schemes based on the banner image
+  enable: true # enable material_theme to generate dynamic color schemes based on the banner image
 
 internal_theme:
   light:
-    --red-0: '#ff0000'
+    --red-0: '#ff0001'
     --red-1: '#ff5252'
     --red-2: '#ff7c7c'
     --red-3: '#ffafaf'
