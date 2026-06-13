@@ -17,7 +17,7 @@ However, I've read some information on the Internet about Mechrevo. It is report
 | Keyboard | PS/2 | Working |
 | Touchpad | PS/2 | Working |
 | iGPU(AMD) | 1002:164e | Working |
-| dGPU(NVIDIA) | 10de:2f18 | Out-tree Driver required |
+| dGPU(NVIDIA) | 10de:2f18 | Out-of-tree Driver required |
 | MT7922 Wireless Network Adapter | 14c3:7922 | Working |
 | RTL8125 Ethernet Controller | 10ec:8125 | Working |
 | Bluetooth | 13d3:3585 | Working |
